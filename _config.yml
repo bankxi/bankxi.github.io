@@ -19,7 +19,7 @@ title: bankxi的世界
 # 下面填写你的网络常用名
 name: bankxi
 # 下面填写你的座右铭或者是个性签名
-description: 出风秋雨.
+description: 春风秋雨.
 # 你博客的 url 地址，比如：https://showzeng.github.io 或者是自定义的域名
 url: https://www.baidu.com
 # 在页尾的版权时间信息，比如：2016-2018，默认是 2018 年
@@ -74,7 +74,7 @@ baidu_id: 1b3b1dd10417c649478b6e267a85591f
 # --- 打赏设置 ---
 # 开启打赏，取消下面一行注解，并将微信和支付宝的收款二维码放置在 /assets/img/ 文件夹下
 # 同时图片的文件名必须为 alipay 和 wechat
-reward: true
+reward: false
 # 打赏的推广语
 reward_description: 如果你觉得本文对你有帮助，不妨请我喝杯咖啡
 # --- 打赏设置 ---
@@ -86,12 +86,12 @@ comment: false
 # 来必力 uid
 # livere_uid:
 # gitment 用户主，即 GitHub 用户名
-gitment_owner: varenyzc
+#gitment_owner: varenyzc
 # GitHub pages 仓库名，如：showzeng.github.io
-gitment_repo: varenyzc.github.io
+#gitment_repo: varenyzc.github.io
 # gitment 提供的对应 id 和 secret
-gitment_client_id: 76bb22ffd69cb9a2dc11
-gitment_secret: 1bc48766be80fbcb2802679ab796d76ac4fafe44
+#gitment_client_id: 76bb22ffd69cb9a2dc11
+  #gitment_secret: 1bc48766be80fbcb2802679ab796d76ac4fafe44
 # --- 评论设置 ---
 
 # theme: jekyll-theme-minimalism
